@@ -1,2 +1,2 @@
 # Calci-Prototype
-website link: https://ashwinrao.netlify.app/
+ A Calculator to perform basic arithmetic calculations.
